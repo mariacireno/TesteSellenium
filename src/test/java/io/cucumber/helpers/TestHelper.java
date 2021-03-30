@@ -1,4 +1,4 @@
-package io.cucumber.maria;
+package io.cucumber.helpers;
 
 import java.util.List;
 
